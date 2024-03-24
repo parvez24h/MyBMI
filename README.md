@@ -1,4 +1,4 @@
-# MyBMI Calculator App
+# MyBMI App
 The MyBMI App is a simple Android application that allows users to calculate their Body Mass Index (BMI) based on their weight and height inputs. It provides users with an indication of their body weight status, whether they are underweight, normal weight, overweight, or obese, according to their BMI value.
 
 ## Features
